@@ -1,7 +1,10 @@
 # **Table of contents**
-1. About Me
-2. Programming Background
-3. Hobbies
+- [**Table of contents**](#table-of-contents)
+  - [**About Me**](#about-me)
+  - [**Programming Background**](#programming-background)
+    - [Coding Languages](#coding-languages)
+    - [Previous Experience](#previous-experience)
+  - [**Hobbies**](#hobbies)
 
 <br><br>
 
