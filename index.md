@@ -20,12 +20,12 @@ Hi! My name is Nakul Nandhakumar. I'm 20 years old and am currently a Sophomore.
 
 
 ### Coding Languages
-- [x] *```Java/Javascript``` [(Click for my favorite coding language)](README.md)*
-- [x] *```Python```*
-- [x] *```C/C++```*
-- [x] *```Swift```*
-- [x] *```ARM 32 Bit Assembly```*
-- [x] *```MATLAB```*
+- [x] *`Java/Javascript` [(Click for my favorite coding language)](README.md)*
+- [x] *`Python`*
+- [x] *`C/C++`*
+- [x] *`Swift`*
+- [x] *`ARM 32 Bit Assembly`*
+- [x] *`MATLAB`*
 
 ### Previous Experience
 - Intel Validation Engineer Undergrad Intern
