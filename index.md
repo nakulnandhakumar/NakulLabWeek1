@@ -1,5 +1,5 @@
-# **Table of contents**
-- [**Table of contents**](#table-of-contents)
+# **Table of Contents**
+- [**Table of Contents**](#table-of-contents)
   - [**About Me**](#about-me)
   - [**Programming Background**](#programming-background)
     - [Coding Languages](#coding-languages)
