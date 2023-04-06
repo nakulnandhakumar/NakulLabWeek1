@@ -35,9 +35,9 @@ Hi! My name is Nakul Nandhakumar. I'm 20 years old and am currently a Sophomore.
 <br><br>
 
 ## **Hobbies**
-- >Tennis
-  - I love being outdoors and playing sports. Tennis is something I've been playing since I was 5 years old. I still continue to play, more for fun now, and am active member of the UCSD Club Tennis Team.
-- >Piano
-  - I've always found that listening to music relaxes me and playing piano is one of my favorite things to do when I need to take a mental break. 
-- >Carnatic Vocal Music
-  - Carnatic vocal music is something that I really love and is deeply connected to my culture. Like tennis and piano, it's something that I've been learning since I was very little and I still continue to do so. [(What is Carnatic Music?)](https://en.wikipedia.org/wiki/Carnatic_music)
+1.  >Tennis
+      - I love being outdoors and playing sports. Tennis is something I've been playing since I was 5 years old. I still continue to play, more for fun now, and am active member of the UCSD Club Tennis Team.
+2.  >Piano
+      - I've always found that listening to music relaxes me and playing piano is one of my favorite things to do when I need to take a mental break. 
+3. >Carnatic Vocal Music
+     - Carnatic vocal music is something that I really love and is deeply connected to my culture. Like tennis and piano, it's something that I've been learning since I was very little and I still continue to do so. [(What is Carnatic Music?)](https://en.wikipedia.org/wiki/Carnatic_music)
