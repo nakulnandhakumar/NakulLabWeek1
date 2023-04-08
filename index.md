@@ -30,7 +30,7 @@ Hi! My name is Nakul Nandhakumar. I'm 20 years old and am currently a Sophomore.
 ### Previous Experience
 - Intel Validation Engineer Undergrad Intern
     >Helped maintain company-wide automation framework for running hundreds of chip performance tests, wrote many wrapper scripts in Python to handle pass/fail cases for tests run
-- Several year-long PBL high-school group projects developing webapps using SpringBoot Framework, familiar with the basics of AGILE and SCRUM methodoligies
+- Several year-long PBL high-school group projects developing webapps using SpringBoot Framework
 
 <br><br>
 
